@@ -1,0 +1,17 @@
+Why Study JavaScript?
+JavaScript is one of the 3 languages all web developers must learn:
+
+   1. HTML to define the content of web pages
+
+   2. CSS to specify the layout of web pages
+
+   3. JavaScript to program the behavior of web pages
+
+This tutorial is about JavaScript, and how JavaScript works with HTML and CSS.
+
+Did You Know?
+	JavaScript and Java are completely different languages, both in concept and design.
+	JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
+	ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.
+
+	You can read more about the different JavaScript versions in the chapter JS Versions.
