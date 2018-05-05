@@ -1,0 +1,2 @@
+HTML stands for "Hyper Text Markup Language". It can be use for webpage creation case.
+It is the base structure for WebDesign, Nowadays, HTML5.1 has released its have many CSS features. CSS stands for Castcading Style Sheet.
